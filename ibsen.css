@@ -1,0 +1,40 @@
+.speech {
+    color: black;
+    font-family: "Airal", sans-serif;
+    font-size: 16px;
+}
+
+.direction {
+    color: red;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    background-color: lightblue;
+}
+
+.direction:hover {
+    background-color: #2980b9;
+    color: #fff;
+}
+
+
+.name {
+    font-family: "Gill Sans";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hovstad {
+    color: orange;
+}
+
+.voices {
+    color: rgb(51, 220, 51);
+}
+
+.drstockmann {
+    color: purple;
+}
+
+.peterstockmann {
+    color: blue;
+}
