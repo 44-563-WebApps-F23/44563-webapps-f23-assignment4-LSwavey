@@ -51,7 +51,7 @@
     padding: 8px;
     margin: 10px;
     text-align: right;
-    border-bottom: 1px solid #ab3433;
+    border-bottom: 1px solid black;
 }
 
 .table1 tr:nth-child(even) {
