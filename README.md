@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
-Hosted at: https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-LSwavey/blob/main/playpart.html
+Hosted at: file:///C:/Users/s541663/Desktop/webapps-repos/44563-webapps-f23-assignment4-LSwavey/playpart.html
