@@ -40,19 +40,22 @@
 }
 
 .table1 table {
-    border-collapse: collapse;
+    border-collapse: separate;
     width: 100%;
+    border: 2px solid black;
 }
 
 .table1 th 
 .table1 td {
-    padding: 10px;
-    text-align: left;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 10px;
+    text-align: right;
     border-bottom: 1px solid #ab3433;
 }
 
 .table1 tr:nth-child(even) {
-    background-color: lightgreen;
+    background-color: lightblue;
 }
 
 .table1 tr:nth-child(odd) {
