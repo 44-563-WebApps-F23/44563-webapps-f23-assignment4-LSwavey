@@ -23,6 +23,11 @@
     font-weight: bold;
 }
 
+.name:hover {
+    border-style: dashed;
+    text-shadow: 2px 4px 4px red;
+}
+
 .hovstad {
     color: orange;
 }
