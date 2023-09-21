@@ -50,3 +50,11 @@
     text-align: left;
     border-bottom: 1px solid #ab3433;
 }
+
+.table1 tr:nth-child(even) {
+    background-color: lightgreen;
+}
+
+.table1 tr:nth-child(odd) {
+    background-color: lightpink;
+}
